@@ -1,0 +1,4 @@
+.section3 > .insert-video > p {display: inline-block; margin: 10px 0 0 0; font-weight: bold;}
+.insert-video {width: 400px; display: inline; float: left; text-align: center;}
+.intro-hobby {width: auto; display: inline; float: right;}
+.intro-hobby  p:first-child {display: inline-block; margin: 10px 0 0 0; font-weight: bold; border: 2px solid orange; border-radius: 30px;}

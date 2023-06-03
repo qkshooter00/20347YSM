@@ -1,0 +1,4 @@
+.insert-image {width: 400px; display: inline; float: left;}
+.intro {width: auto; display: inline; float: right;}
+.myImage {max-width: 100%; height: auto;} 
+.section2  p:first-child {display: inline-block; margin: 10px 0 0 0; font-weight: bold; border: 2px solid orange; border-radius: 30px;}

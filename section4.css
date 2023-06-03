@@ -1,0 +1,18 @@
+.intro-section4 {text-align: center; font-style: oblique;}
+.photo-album {width: auto;}
+.photo-1 {display: inline-block; width: 250px; margin: 0 auto;}
+.photo-1-1 {width: 250px;}
+.photo-2 {display: inline-block; width: 250px; margin: 0 auto;}
+.photo-2-1 {width: 250px;}
+.photo-3 {display: inline-block; width: 250px; margin: 0 auto;}
+.photo-3-1 {width: 250px;}
+.photo-4 {display: inline-block; width: 250px; margin: 0 auto;}
+.photo-4-1 {width: 250px;}
+.photo-1 > div {display: none; text-align: center;}
+.photo-2 > div {display: none; text-align: center;}
+.photo-3 > div {display: none; text-align: center;}
+.photo-4 > div {display: none; text-align: center;}
+.photo-1 > div > p {font-family: monospace; font-style: italic;}
+.photo-2 > div > p {font-family: monospace; font-style: italic;}
+.photo-3 > div > p {font-family: monospace; font-style: italic;}
+.photo-4 > div > p {font-family: monospace; font-style: italic;}
